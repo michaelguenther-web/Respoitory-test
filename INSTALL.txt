@@ -1,0 +1,1 @@
+Replace docs/index.html in your existing GitHub repository with the enclosed file. Keep the notebook, CSV inputs, docs/model_results.json, requirements and workflow unchanged. Commit and wait for GitHub Pages deployment. The dashboard requires the existing docs/model_results.json and internet access to load Plotly.
